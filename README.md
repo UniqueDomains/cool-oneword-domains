@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.COOL one word domains
 | abaxial.cool    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.cool   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.cool  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.cool  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.cool  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.cool | available | 56       | 1%     | 10     |           |         |         |
 | abducens.cool   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.cool   | available | 68       | 1%     | 8      |           |         |         |
@@ -39,7 +39,7 @@ If you want to search & filters the complete database of [.COOL one word domains
 | aberdonian.cool | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.cool   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.cool    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.cool  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.cool  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.cool    | available | 106      | 5%     | 7      |           |         |         |
 | abient.cool     | available | 54       | 1%     | 6      |           |         |         |
 | ability.cool    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.COOL one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
