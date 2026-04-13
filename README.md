@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C401%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C402%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C401%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .cool one-word domains from Unique
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,401 rows · **Live catalog:** 8,401 domains
+**Public extract:** 8,402 rows · **Live catalog:** 8,401 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cool`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .COOL one-word domain 
 
 ### Files
 
-- `cool.csv` — public CSV extract (8,401 rows)
-- `cool.json` — public JSON extract (8,401 rows)
+- `cool.csv` — public CSV extract (8,402 rows)
+- `cool.json` — public JSON extract (8,402 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -75,11 +75,11 @@ print(df.head())
 | security.cool   | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                    |
 | terminal.cool   | available | $9.99     | $65.99        | 104            | 33     | 8      | name.com                                     |
 | prompt.cool     | resell    | —         | —             | 114            | 68     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| green.cool      | premium   | $520      | $520          | 108            | 45     | 5      | namecheap                                    |
-| adaptive.cool   | available | $9.99     | $65.99        | 76             | 32     | 8      | name.com                                     |
+| green.cool      | premium   | $520      | $520          | 108            | 44     | 5      | namecheap                                    |
+| concrete.cool   | available | $50.98    | —             | 102            | 32     | 8      | namecheap                                    |
 | flow.cool       | resell    | —         | —             | 96             | 67     | 4      | DNSPod, Inc.                                 |
 | map.cool        | premium   | $260      | $260          | 78             | 42     | 3      | namecheap                                    |
-| concrete.cool   | available | $50.98    | —             | 102            | 31     | 8      | namecheap                                    |
+| adaptive.cool   | available | $9.99     | $65.99        | 76             | 32     | 8      | name.com                                     |
 | now.cool        | resell    | —         | —             | 78             | 66     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | realestate.cool | premium   | $520      | $520          | —              | 40     | 11     | namecheap                                    |
 | nine.cool       | available | $9.99     | $65.99        | 80             | 31     | 4      | name.com                                     |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,401-row public sample | 8,401 live domains                               |
+| 8,402-row public sample | 8,401 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
