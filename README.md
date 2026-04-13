@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cool one-word domains from Unique
 
 **Public extract:** 8,401 rows · **Live catalog:** 8,401 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/cool`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| silver.cool     | available | $50.98    | —             | 56             | 99     | 6      | namecheap                                           |
-| binary.cool     | resell    | —         | —             | 96             | 98     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| athletics.cool  | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                           |
-| risk.cool       | available | $50.98    | —             | 62             | 38     | 4      | namecheap                                           |
-| cruel.cool      | resell    | —         | —             | 112            | 97     | 5      | GoDaddy.com, LLC                                    |
-| digital.cool    | premium   | $250      | $250          | 100            | 50     | 7      | name.com                                            |
-| progress.cool   | available | $9.99     | $65.99        | 82             | 34     | 8      | name.com                                            |
-| box.cool        | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                        |
-| security.cool   | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                           |
-| terminal.cool   | available | $9.99     | $65.99        | 104            | 33     | 8      | name.com                                            |
-| get.cool        | resell    | —         | —             | 88             | 69     | 3      | DNSPod, Inc.                                        |
-| green.cool      | premium   | $520      | $520          | 108            | 45     | 5      | namecheap                                           |
-| adaptive.cool   | available | $9.99     | $65.99        | 76             | 32     | 8      | name.com                                            |
-| prompt.cool     | resell    | —         | —             | 114            | 68     | 6      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| map.cool        | premium   | $260      | $260          | 78             | 42     | 3      | namecheap                                           |
-| concrete.cool   | available | $50.98    | —             | 102            | 31     | 8      | namecheap                                           |
-| flow.cool       | resell    | —         | —             | 96             | 67     | 4      | DNSPod, Inc.                                        |
-| realestate.cool | premium   | $520      | $520          | —              | 40     | 11     | namecheap                                           |
-| nine.cool       | available | $9.99     | $65.99        | 80             | 31     | 4      | name.com                                            |
-| now.cool        | resell    | —         | —             | 78             | 66     | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| silver.cool     | available | $50.98    | —             | 56             | 99     | 6      | namecheap                                    |
+| cruel.cool      | resell    | —         | —             | 112            | 97     | 5      | GoDaddy.com, LLC                             |
+| athletics.cool  | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                    |
+| risk.cool       | available | $50.98    | —             | 62             | 38     | 4      | namecheap                                    |
+| box.cool        | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                 |
+| digital.cool    | premium   | $250      | $250          | 100            | 50     | 7      | name.com                                     |
+| progress.cool   | available | $9.99     | $65.99        | 82             | 34     | 8      | name.com                                     |
+| get.cool        | resell    | —         | —             | 88             | 69     | 3      | DNSPod, Inc.                                 |
+| security.cool   | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                    |
+| terminal.cool   | available | $9.99     | $65.99        | 104            | 33     | 8      | name.com                                     |
+| prompt.cool     | resell    | —         | —             | 114            | 68     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
+| green.cool      | premium   | $520      | $520          | 108            | 45     | 5      | namecheap                                    |
+| adaptive.cool   | available | $9.99     | $65.99        | 76             | 32     | 8      | name.com                                     |
+| flow.cool       | resell    | —         | —             | 96             | 67     | 4      | DNSPod, Inc.                                 |
+| map.cool        | premium   | $260      | $260          | 78             | 42     | 3      | namecheap                                    |
+| concrete.cool   | available | $50.98    | —             | 102            | 31     | 8      | namecheap                                    |
+| now.cool        | resell    | —         | —             | 78             | 66     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| realestate.cool | premium   | $520      | $520          | —              | 40     | 11     | namecheap                                    |
+| nine.cool       | available | $9.99     | $65.99        | 80             | 31     | 4      | name.com                                     |
+| news.cool       | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC - 27                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
