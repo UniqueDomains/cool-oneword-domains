@@ -1,22 +1,22 @@
-# Available .COOL One-Word Domains (8,401)
+# Available .COOL One-Word Domains (10,616)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C402%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C401%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C616%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cool one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cool one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,616 domains** on the canonical page below.
 
-**Public extract:** 8,402 rows · **Live catalog:** 8,401 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,616 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/cool`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .COOL one-word domain 
 
 ### Files
 
-- `cool.csv` — public CSV extract (8,402 rows)
-- `cool.json` — public JSON extract (8,402 rows)
+- `cool.csv` — public CSV extract (1,000 rows)
+- `cool.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| silver.cool    | available | $50.98    | —             | 56             | 99     | 6      | namecheap                                    |
-| cruel.cool     | resell    | —         | —             | 112            | 97     | 5      | GoDaddy.com, LLC                             |
-| athletics.cool | premium   | $128.70   | $128.70       | 69             | 52     | 9      | namecheap                                    |
-| risk.cool      | available | $50.98    | —             | 62             | 38     | 4      | namecheap                                    |
-| box.cool       | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                 |
-| digital.cool   | premium   | $250      | $250          | 100            | 49     | 7      | name.com                                     |
-| progress.cool  | available | $9.99     | $65.99        | 82             | 34     | 8      | name.com                                     |
-| get.cool       | resell    | —         | —             | 88             | 69     | 3      | DNSPod, Inc.                                 |
-| security.cool  | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                    |
-| terminal.cool  | available | $9.99     | $65.99        | 104            | 33     | 8      | name.com                                     |
-| prompt.cool    | resell    | —         | —             | 114            | 68     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| green.cool     | premium   | $520      | $520          | 108            | 44     | 5      | namecheap                                    |
-| concrete.cool  | available | $50.98    | —             | 102            | 32     | 8      | namecheap                                    |
-| flow.cool      | resell    | —         | —             | 96             | 66     | 4      | DNSPod, Inc.                                 |
-| map.cool       | premium   | $260      | $260          | 78             | 42     | 3      | namecheap                                    |
-| adaptive.cool  | available | $9.99     | $65.99        | 76             | 32     | 8      | name.com                                     |
-| now.cool       | resell    | —         | —             | 78             | 66     | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
-| direct.cool    | premium   | $500      | $500          | 104            | 40     | 6      | name.com                                     |
-| nine.cool      | available | $9.99     | $65.99        | 80             | 31     | 4      | name.com                                     |
-| news.cool      | resell    | —         | —             | 100            | 64     | 4      | Sav.com, LLC - 27                            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| etc.cool          | available | $9.99     | —             | 58             | 34     | 3      | name.com         |
+| Ava.cool          | resell    | —         | —             | 76             | 41     | 3      | Dynadot Inc      |
+| events.cool       | premium   | $250      | —             | 68             | 37     | 6      | name.com         |
+| teams.cool        | available | $9.99     | —             | 62             | 32     | 5      | name.com         |
+| computers.cool    | resell    | —         | —             | 68             | 19     | 9      | Epik LLC         |
+| partners.cool     | premium   | $500      | —             | 61             | 32     | 8      | name.com         |
+| heroes.cool       | available | $9.99     | —             | 68             | 29     | 6      | name.com         |
+| pools.cool        | resell    | —         | —             | 61             | 19     | 5      | Epik LLC         |
+| solutions.cool    | premium   | $500      | —             | 56             | 31     | 9      | name.com         |
+| traders.cool      | available | $9.99     | —             | 60             | 26     | 7      | name.com         |
+| pestcontrol.cool  | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
+| photos.cool       | premium   | $500      | —             | 54             | 28     | 6      | name.com         |
+| drops.cool        | available | $9.99     | —             | 52             | 25     | 5      | name.com         |
+| roses.cool        | resell    | —         | —             | 68             | 16     | 5      | Sav.com, LLC     |
+| systems.cool      | premium   | $500      | —             | 46             | 27     | 7      | name.com         |
+| inhouse.cool      | available | $9.99     | —             | 70             | 23     | 8      | name.com         |
+| wines.cool        | resell    | —         | —             | 63             | 16     | 5      | Epik LLC         |
+| products.cool     | premium   | $123.75   | —             | 60             | 23     | 8      | name.com         |
+| veterans.cool     | available | $9.99     | —             | 56             | 23     | 8      | name.com         |
+| workfromhome.cool | resell    | —         | —             | 51             | 16     | 14     | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,402-row public sample | 8,401 live domains                               |
+| 1,000-row public sample | 10,616 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
