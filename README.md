@@ -1,10 +1,10 @@
-# Available .COOL One-Word Domains (11,217)
+# Available .COOL One-Word Domains (11,222)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C217%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C222%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cool one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,217 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,222 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,217 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,222 domains · **Median ask:** $17.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/cool`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| etc.cool          | available | $9.99     | —             | 58             | 34     | 3      | name.com         |
-| Ava.cool          | resell    | —         | —             | 76             | 41     | 3      | Dynadot Inc      |
-| partners.cool     | premium   | $500      | —             | 61             | 32     | 8      | name.com         |
-| teams.cool        | available | $9.99     | —             | 62             | 32     | 5      | name.com         |
-| toys.cool         | resell    | —         | —             | 60             | 24     | 4      | Sav.com, LLC     |
-| solutions.cool    | premium   | $500      | —             | 56             | 31     | 9      | name.com         |
-| heroes.cool       | available | $9.99     | —             | 68             | 29     | 6      | name.com         |
-| holidays.cool     | resell    | —         | —             | 78             | 23     | 8      | Sav.com, LLC     |
-| photos.cool       | premium   | $500      | —             | 54             | 28     | 6      | name.com         |
-| traders.cool      | available | $9.99     | —             | 60             | 26     | 7      | name.com         |
-| pools.cool        | resell    | —         | —             | 61             | 19     | 5      | Epik LLC         |
-| systems.cool      | premium   | $500      | —             | 46             | 27     | 7      | name.com         |
-| drops.cool        | available | $9.99     | —             | 52             | 25     | 5      | name.com         |
-| pestcontrol.cool  | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
-| products.cool     | premium   | $123.75   | —             | 60             | 23     | 8      | name.com         |
-| inhouse.cool      | available | $9.99     | —             | 70             | 23     | 8      | name.com         |
-| wines.cool        | resell    | —         | —             | 63             | 16     | 5      | Epik LLC         |
-| pictures.cool     | premium   | $500      | —             | 82             | 17     | 8      | name.com         |
-| veterans.cool     | available | $9.99     | —             | 56             | 23     | 8      | name.com         |
-| workfromhome.cool | resell    | —         | —             | 51             | 16     | 14     | GoDaddy.com, LLC |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| Acup.cool      | available | $50.98    | —             | 80             | 5      | 5      | namecheap    |
+| barup.cool     | available | $9.99     | —             | 82             | 2      | 6      | name.com     |
+| forces.cool    | available | $9.99     | —             | 82             | 12     | 6      | name.com     |
+| playon.cool    | available | $9.99     | —             | 80             | 14     | 7      | name.com     |
+| pierogi.cool   | available | $9.99     | —             | 82             | 7      | 7      | name.com     |
+| presents.cool  | available | $9.99     | —             | 80             | 9      | 8      | name.com     |
+| rumcake.cool   | available | $9.99     | —             | 81             | 3      | 8      | name.com     |
+| etc.cool       | available | $9.99     | —             | 58             | 34     | 3      | name.com     |
+| Ava.cool       | resell    | —         | —             | 76             | 41     | 3      | Dynadot Inc  |
+| partners.cool  | premium   | $500      | —             | 61             | 32     | 8      | name.com     |
+| teams.cool     | available | $9.99     | —             | 62             | 32     | 5      | name.com     |
+| toys.cool      | resell    | —         | —             | 60             | 24     | 4      | Sav.com, LLC |
+| solutions.cool | premium   | $500      | —             | 56             | 31     | 9      | name.com     |
+| heroes.cool    | available | $9.99     | —             | 68             | 29     | 6      | name.com     |
+| holidays.cool  | resell    | —         | —             | 78             | 23     | 8      | Sav.com, LLC |
+| photos.cool    | premium   | $500      | —             | 54             | 28     | 6      | name.com     |
+| traders.cool   | available | $9.99     | —             | 60             | 26     | 7      | name.com     |
+| pools.cool     | resell    | —         | —             | 61             | 19     | 5      | Epik LLC     |
+| systems.cool   | premium   | $500      | —             | 46             | 27     | 7      | name.com     |
+| drops.cool     | available | $9.99     | —             | 52             | 25     | 5      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,217 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,222 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up of one-word .cool domains. The extension gives the names a casual, expressive tone, so fit matters more here than with a mainstream TLD. Some names in this set are clean dictionary words, while others are short action phrases or stylized terms such as Acup.cool, WiFi.cool, finals.cool, getup.cool, and dogsit.cool. For founders, the key question is whether the word stays memorable and credible with .cool attached. For investors, the key question is whether the low median ask of 17.76 leaves room for resale relative to renewal cost and end-user demand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that still read clearly with .cool
+- Check renewal cost before judging a low ask as a deal
+- Generic terms may be safer than brand-like strings
+- Match tone: playful, consumer, community, or event use
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
