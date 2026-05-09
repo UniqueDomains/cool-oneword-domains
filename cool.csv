@@ -386,6 +386,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26327c67-aadd-406e-b6cb-745d63ac56ce,nojoke.cool,available,9.99,,48,4,7,name.com,,
 26379e13-51a5-42d9-9e69-2476462b736a,goby.cool,available,9.99,,74,9,5,name.com,,
 2653b578-187b-44d5-a9ae-1608c94b6099,natives.cool,available,9.99,,56,9,7,name.com,,
+26848710-da33-483a-815d-d6ecb407981e,bless.cool,premium,,,78,21,5,,,
 26b5b58f-cda9-4b5d-b7e9-fd6649c54364,bluecheckmark.cool,available,9.99,,70,2,15,name.com,,
 26f36084-b3a4-423d-a8b7-d92696f96af3,flipthescript.cool,available,9.99,,72,6,15,name.com,,
 27051f59-f440-41ca-8114-356810d47d04,uploadability.cool,available,9.99,,60,1,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d29707e-76b2-4420-8faf-e6c5a4f1f651,products.cool,premium,123.75,,60,23,8,name.com,,
 5d36c56c-96a2-4ca3-b3b7-56dae7e6ba3a,generalmeeting.cool,available,9.99,,46,2,15,name.com,,
 5d5d1f54-d6c4-43e1-a653-803884edba91,prefers.cool,available,9.99,,52,3,7,name.com,,
-5d6ddbbd-2cd2-46fa-90f0-ff96f0f2fe1e,registration.cool,available,9.99,,75,19,12,name.com,,
