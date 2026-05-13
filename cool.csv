@@ -377,7 +377,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2550a00e-397f-490b-9a19-275194223fcc,summarizing.cool,available,9.99,,46,2,11,name.com,,
 258dac6b-4e48-4a85-b37d-d134698fc881,suspicions.cool,available,9.99,,43,2,10,name.com,,
 25c771f0-798a-42c8-8cf4-c73d638da842,slipoff.cool,available,9.99,,65,1,8,name.com,,
-25c9e8e0-cfc7-46b7-904f-58fd6ba3b3fa,Ava.cool,resell,,,76,41,3,Dynadot Inc,06/02/2026 17:00,06/02/2027 17:00
+25c9e8e0-cfc7-46b7-904f-58fd6ba3b3fa,Ava.cool,resell,,,76,42,3,Dynadot Inc,06/02/2026 17:00,06/02/2027 17:00
 25f88424-eb87-4e41-b401-7063cc2de34b,officeroutine.cool,available,9.99,,43,0,14,name.com,,
 2609025a-b4b6-4618-a54f-3786ef48a952,fastacting.cool,available,9.99,,72,1,11,name.com,,
 260e4355-de8f-40ce-ab2f-5404c9c9aad1,launchsite.cool,available,9.99,,60,7,11,name.com,,
@@ -401,6 +401,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27cc0b65-201e-498d-b1da-5105c761d050,royalties.cool,available,9.99,,56,9,9,name.com,,
 280ce37d-5176-4ccc-8381-0f5746adaef5,herbbutter.cool,available,9.99,,80,1,11,name.com,,
 28137e01-6779-4a20-9f0e-1cbeb163af40,letpass.cool,available,9.99,,56,1,8,name.com,,
+28219f7c-f22d-4e8b-bddf-a27070aba2e5,Women.cool,resell,,,77,31,5,UM DOMAINS PTE. LTD,01/03/2026 15:15,01/03/2027 15:15
 28342d70-c40c-451c-ab7a-f079c3ff859c,businesses.cool,available,9.99,,60,12,10,name.com,,
 28406d7f-dd98-4121-bf20-6c49f176a134,chickenout.cool,available,9.99,,74,1,11,name.com,,
 28419699-3cc8-4248-ac20-581f2a927088,GrandMarnier.cool,available,50.98,,70,3,13,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d0c3715-71e7-4926-a5e0-e47839862f12,continents.cool,available,9.99,,50,5,10,name.com,,
 5d29707e-76b2-4420-8faf-e6c5a4f1f651,products.cool,premium,123.75,,60,23,8,name.com,,
 5d36c56c-96a2-4ca3-b3b7-56dae7e6ba3a,generalmeeting.cool,available,9.99,,46,2,15,name.com,,
-5d5d1f54-d6c4-43e1-a653-803884edba91,prefers.cool,available,9.99,,52,3,7,name.com,,
