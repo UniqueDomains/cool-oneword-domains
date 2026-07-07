@@ -1,10 +1,10 @@
-# Available .COOL One-Word Domains (11,235)
+# Available .COOL One-Word Domains (11,236)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C235%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C236%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .cool one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,235 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,236 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,235 domains · **Median ask:** $17.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,236 domains · **Median ask:** $19.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cool`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/cool`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COOL one-word domain 
 
 ### Files
 
-- `cool.csv` — public CSV extract (1,000 rows)
-- `cool.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cool.csv`, public CSV extract (1,000 rows)
+- `cool.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| Acup.cool      | available | $50.98    | —             | 80             | 5      | 5      | namecheap           |
-| barup.cool     | available | $9.99     | —             | 82             | 2      | 6      | name.com            |
-| forces.cool    | available | $9.99     | —             | 82             | 12     | 6      | name.com            |
-| playon.cool    | available | $9.99     | —             | 80             | 14     | 7      | name.com            |
-| pierogi.cool   | available | $9.99     | —             | 82             | 7      | 7      | name.com            |
-| presents.cool  | available | $9.99     | —             | 80             | 9      | 8      | name.com            |
-| rumcake.cool   | available | $9.99     | —             | 81             | 2      | 8      | name.com            |
-| teams.cool     | available | $9.99     | —             | 62             | 32     | 5      | name.com            |
-| Ava.cool       | resell    | —         | —             | 76             | 42     | 3      | Dynadot Inc         |
-| partners.cool  | premium   | $500      | —             | 61             | 31     | 8      | name.com            |
-| etc.cool       | available | $9.99     | —             | 58             | 32     | 3      | name.com            |
-| Women.cool     | resell    | —         | —             | 77             | 31     | 5      | UM DOMAINS PTE. LTD |
-| solutions.cool | premium   | $500      | —             | 56             | 31     | 9      | name.com            |
-| heroes.cool    | available | $9.99     | —             | 68             | 29     | 6      | name.com            |
-| toys.cool      | resell    | —         | —             | 60             | 24     | 4      | Sav.com, LLC        |
-| photos.cool    | premium   | $500      | —             | 54             | 28     | 6      | name.com            |
-| traders.cool   | available | $9.99     | —             | 60             | 25     | 7      | name.com            |
-| holidays.cool  | resell    | —         | —             | 78             | 23     | 8      | Sav.com, LLC        |
-| systems.cool   | premium   | $500      | —             | 46             | 27     | 7      | name.com            |
-| drops.cool     | available | $9.99     | —             | 52             | 25     | 5      | name.com            |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| here.cool | available | —         | —             | high           | low    | 4      | —                                                   |
+| MMR.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| ADS.cool  | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
+| bed.cool  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| tub.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| old.cool  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                         |
+| did.cool  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| xvi.cool  | available | $9.99     | $65.99        | medium         | low    | 3      | name.com                                            |
+| sub.cool  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| few.cool  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| bare.cool | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
+| the.cool  | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| date.cool | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
+| bead.cool | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| auto.cool | resell    | —         | —             | medium         | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| rich.cool | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
+| bore.cool | available | $9.99     | $65.99        | high           | low    | 4      | name.com                                            |
+| baby.cool | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| tour.cool | premium   | $520      | $520          | high           | low    | 4      | namecheap                                           |
+| chin.cool | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,235 live domains                        |
+| 1,000-row public sample | 11,236 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .cool domains. The extension gives the names a casual, expressive tone, so fit matters more here than with a mainstream TLD. Some names in this set are clean dictionary words, while others are short action phrases or stylized terms such as Acup.cool, WiFi.cool, finals.cool, getup.cool, and dogsit.cool. For founders, the key question is whether the word stays memorable and credible with .cool attached. For investors, the key question is whether the low median ask of 17.76 leaves room for resale relative to renewal cost and end-user demand.
+This selection includes 11,236 one-word .cool domains, each a single string with no hyphens or numbers. Names range from everyday terms like WiFi.cool and primarycare.cool to playful, brandable phrases such as coffeeglass.cool, makehappen.cool, and dogsit.cool. The median asking price across the set is about $19, though individual listings vary by length, spelling clarity, and theme. Whether you're comparing these for resale potential or looking for an ownable brand name, checking asking price, renewal cost, and readability on a per-domain basis is the best way to shortlist candidates.
 
-- Prioritize words that still read clearly with .cool
-- Check renewal cost before judging a low ask as a deal
-- Generic terms may be safer than brand-like strings
-- Match tone: playful, consumer, community, or event use
+- 11,236 one-word .cool domains in this selection
+- Median asking price near $19 across the set
+- Single-string names — no hyphens, no numbers
+- Themes span everyday terms to playful brandable phrases
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
