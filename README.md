@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cool one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,038 domains · **Median ask:** $12.66 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/cool`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| clv.cool  | available | $5.98     | $50.98        | low            | low    | 3      | namecheap                                           |
-| ADS.cool  | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
-| bed.cool  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
-| MMR.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
-| old.cool  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                         |
-| did.cool  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
-| tub.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
-| sub.cool  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| few.cool  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
-| xvi.cool  | available | $9.99     | $65.99        | medium         | low    | 3      | name.com                                            |
-| the.cool  | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| raw.cool  | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                                            |
-| bare.cool | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
-| auto.cool | resell    | —         | —             | medium         | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| date.cool | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
-| bead.cool | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
-| baby.cool | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| rich.cool | premium   | $500      | $500          | medium         | low    | 4      | name.com                                            |
-| bore.cool | available | $9.99     | $65.99        | high           | low    | 4      | name.com                                            |
-| care.cool | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| here.cool  | available | —         | —             | high           | low    | 4      | —                                                   |
+| front.cool | available | $9.99     | —             | high           | low    | 5      | name.com                                            |
+| clv.cool   | available | $5.98     | $50.98        | low            | low    | 3      | namecheap                                           |
+| ADS.cool   | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
+| bed.cool   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| MMR.cool   | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| old.cool   | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                         |
+| did.cool   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
+| tub.cool   | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
+| sub.cool   | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| few.cool   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| xvi.cool   | available | $9.99     | $65.99        | medium         | low    | 3      | name.com                                            |
+| the.cool   | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| raw.cool   | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                                            |
+| bare.cool  | available | $9.99     | —             | medium         | low    | 4      | name.com                                            |
+| auto.cool  | resell    | —         | —             | medium         | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| date.cool  | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
+| bead.cool  | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
+| baby.cool  | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| rich.cool  | premium   | $500      | $500          | medium         | low    | 4      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
