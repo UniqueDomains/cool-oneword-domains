@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cool one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,609 domains · **Median ask:** $11.08 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/cool`
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | the.cool  | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | raw.cool  | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo                                            |
 | bare.cool | available | $9.49     | $44.99        | low            | low    | 4      | namesilo                                            |
-| auto.cool | resell    | —         | —             | medium         | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| baby.cool | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | ten.cool  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                            |
 | bead.cool | available | $9.99     | —             | high           | low    | 4      | name.com                                            |
-| baby.cool | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| core.cool | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc.                                        |
 | date.cool | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
 | bore.cool | available | $9.99     | $65.99        | high           | low    | 4      | name.com                                            |
-| core.cool | resell    | —         | —             | medium         | medium | 4      | DNSPod, Inc.                                        |
+| east.cool | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
