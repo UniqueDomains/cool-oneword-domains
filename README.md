@@ -1,10 +1,10 @@
-# Available .COOL One-Word Domains (30,592)
+# Available .COOL One-Word Domains (20,525)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C592%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C525%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cool one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,592 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,525 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,592 domains · **Median ask:** $11.01 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 20,525 domains · **Median ask:** $13.30 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/cool`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| clv.cool  | available | $5.98     | $50.98        | high           | low    | 3      | namecheap                                           |
-| ads.cool  | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
-| bar.cool  | premium   | $500      | —             | high           | low    | 3      | name.com                                            |
-| clx.cool  | available | $5.98     | $50.98        | high           | low    | 3      | namecheap                                           |
-| hub.cool  | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                        |
-| bed.cool  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
-| cxl.cool  | available | $5.98     | $50.98        | high           | low    | 3      | namecheap                                           |
-| sub.cool  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| dad.cool  | premium   | $500      | —             | high           | low    | 3      | name.com                                            |
-| eid.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
-| the.cool  | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| did.cool  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                            |
-| ill.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
-| usa.cool  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
-| gag.cool  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
-| llp.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
-| baby.cool | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| nor.cool  | premium   | $82.50    | —             | high           | low    | 3      | name.com                                            |
-| mmr.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                            |
-| cook.cool | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| abs.cool  | available | $9.49     | $44.99        | high           | low    | 3      | namesilo                                                  |
+| ava.cool  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                               |
+| kid.cool  | premium   | $512      | $512          | high           | low    | 3      | namesilo                                                  |
+| auk.cool  | available | $9.49     | $44.99        | medium         | low    | 3      | namesilo                                                  |
+| get.cool  | resell    | —         | —             | high           | high   | 3      | DNSPod, Inc.                                              |
+| odd.cool  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| clx.cool  | available | $5.98     | $50.98        | high           | low    | 3      | namecheap                                                 |
+| led.cool  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                               |
+| pad.cool  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| hdl.cool  | available | $9.49     | $44.99        | high           | low    | 3      | namesilo                                                  |
+| out.cool  | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| pub.cool  | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| nay.cool  | available | $5.98     | $50.98        | medium         | low    | 3      | namecheap                                                 |
+| wan.cool  | resell    | —         | —             | high           | low    | 3      | UM DOMAINS PTE. LTD                                       |
+| rat.cool  | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
+| sse.cool  | available | $9.49     | $44.99        | high           | low    | 3      | namesilo                                                  |
+| axis.cool | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 40                                         |
+| fund.cool | premium   | $512      | $512          | high           | low    | 4      | namesilo                                                  |
+| tug.cool  | available | $9.99     | —             | high           | low    | 3      | name.com                                                  |
+| base.cool | resell    | —         | —             | high           | medium | 4      | —                                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,592 live domains                        |
+| 1,000-row public sample | 20,525 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COOL One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
